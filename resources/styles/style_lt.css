@@ -245,22 +245,18 @@ main {
     font-family: 'Rubik';
     font-size: 1.2em;
     margin-bottom: 0.3em;
-    padding: 0.5em 1em 0.5em 2em;
+    padding: 0.5em 1em 0.86em 2em;
     color: #fff;
-    background: #000;
+    background: url(../images/bg_sumacap.svg) top left no-repeat;
+    background-size:40px;
     border-radius: 3em;
     width: max-content;
     max-width: 100%;
 }
-.apresetaOED::before{
-    background: url(../images/bg_sumacap.svg) top left no-repeat;
-  background-size: auto;
-background-size: 100%;
-content: '';
-width: 55px;
-height: 65px;
-position: absolute;
-margin: -18px 0 0 -70px;
+.apresetaOED  span{
+    background: #000;
+    padding: 0.2em 0.4em;
+    border-radius: 3em;
 }
 
 .ti_carrosselDV {
