@@ -279,6 +279,14 @@ margin: -18px 0 0 -70px;
     margin-left: 1.8em;
     margin-top:1em  ;
 }
+.ti_videoDV {
+    background: url(../images/ico_videoaulal.svg) center left no-repeat;
+    background-size:24px;
+    padding:0.5em 0.5em 0.5em 1.5em ;
+    font-size: 1.2em;
+    margin-left: 1.8em;
+    margin-top:1em  ;
+}
 .navOEDs {
     max-width: 100%;
 }
