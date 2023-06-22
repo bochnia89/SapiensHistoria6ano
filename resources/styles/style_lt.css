@@ -236,6 +236,7 @@ main {
 .infoLivro {
 
     width: 60%;
+
 }
 
 .h_titulo_volume {
@@ -3976,7 +3977,11 @@ table tr td, table tr th {
 
     }
 
+    .infoLivro {
 
+        width: 100%;
+    
+    }
 
     /* POSICIONAMENTO - COLUNAS */
     .col2, .col2c {
