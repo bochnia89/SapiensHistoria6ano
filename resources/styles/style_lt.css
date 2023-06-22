@@ -247,6 +247,7 @@ main {
     padding: 0.5em 1em;
     width: max-content;
     max-width: 100%;
+    line-height: 1.2em;
 }
 .h_titulo_volume a{
     color: #fff;
